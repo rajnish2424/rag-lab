@@ -1,2 +1,5 @@
+# Keep these out of GitHub
 .env
 __pycache__/
+data/
+.DS_Store
